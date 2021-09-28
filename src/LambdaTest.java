@@ -17,7 +17,7 @@ public class LambdaTest {
                 {POSITIVE_INFINITY, 1e32, POSITIVE_INFINITY},
                 {1.0, 2.0, 2.0},
                 {MAX_VALUE, 1.9, MAX_VALUE},
-                {MIN_VALUE, 0.0, MIN_VALUE}
+                {MIN_VALUE, -1.0, MIN_VALUE}
         };
     }
 
